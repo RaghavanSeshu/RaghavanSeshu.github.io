@@ -4,3 +4,4 @@ function increvalue(){
 	postMessage(i);
 	setTimeout("increvalue()",500);
 }
+increvalue();
