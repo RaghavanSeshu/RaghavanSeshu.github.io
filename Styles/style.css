@@ -1,0 +1,14 @@
+p {
+    color: #00ff6a;
+}
+
+html {
+    background-color: cadetblue;
+}
+
+img {
+ width: 600px;
+ height: 800px;
+ display: block;
+ margin: 0 auto;
+}
